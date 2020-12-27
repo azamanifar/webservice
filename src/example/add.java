@@ -8,5 +8,6 @@ public class add {
     {
         return a+b;
 		return a;
+		return c;
 }
 }
